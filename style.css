@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.home{
+    display: inline;
+    padding: 2px;
+    margin-top: 20px;
+}
+
+.menu{
+    background-color: black;
+    color: grey;
+    text-align: center;
+}
+
+.box{
+    width: 300px;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    margin: 5px;
+
+}
+
+.recipie{
+    text-align: center;
+    margin: 5px;
+}
+
+img{
+    width: 300px;
+    height: 500px;
+}
+
+.order{
+    background-color: black;
+    color: white;
+    margin: 8px;
+    padding: 10px;
+}
+
+.cnt:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.home:hover{
+    color: white;
+    cursor: pointer;
+}
+
+.order:hover{
+    background-color: aquamarine;
+    color: green;
+}
+
+.contact{
+    background-color: black;
+    color: white;
+    height: 180px;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}
+
+table{
+    text-align: center;
+    margin-left: 650px;
+    padding: 5px;
+}
+
+.send{
+    background-color: yellow;
+    width: 25%;
+    margin-left: 40%;
+    padding: 2px;
+    font-weight: bold;
+}
+
+tr,td{
+    margin: 8px;
+    padding: 5px;
+}
+
+.send:hover{
+    background-color: orange;
+}
